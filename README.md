@@ -6,3 +6,4 @@
 - Social network DRIM, Frontend + Backend in Python. [[Repository](https://github.com/Maks3410/DRIM-social-network)]
 - My beautiful implementation of a HashTable in C++. [[Repository](https://github.com/Maks3410/HashTable)]
 - Polynomial factorization GUI application in C++. [[Repository](https://github.com/Maks3410/polynomials)]
+- Polynomial factorization web application in Node.js. [[Repository](https://github.com/Maks3410/web-factorizator)]
