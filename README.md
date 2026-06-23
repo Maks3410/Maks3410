@@ -1,4 +1,4 @@
-## Hi, my name is Maxim Ignatyev. 
+## Hi, my name is Maksim Ignatev. 
 ### T-shaped Backend Developer (Python Django/FastAPI) with experience developing and maintaining high-load client-server applications. Worked with Celery, Redis, PostgreSQL/ClickHouse, WebSocket and event-driven architecture.
 ## My projects:
 - Diploma. Client-server application for financial analysis and securities portfolio management. [[Repository](https://github.com/orgs/Maxim-Ignatyev-s-Market-Vision/repositories)]
