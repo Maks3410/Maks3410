@@ -1,4 +1,5 @@
-## Hi, my name is Maxim Ignatyev. I am a T-shaped Backend Developer (Python Django/FastAPI) with experience developing and maintaining high-load client-server applications. Worked with Celery, Redis, PostgreSQL/ClickHouse, WebSocket and event-driven architecture.
+## Hi, my name is Maxim Ignatyev. 
+### T-shaped Backend Developer (Python Django/FastAPI) with experience developing and maintaining high-load client-server applications. Worked with Celery, Redis, PostgreSQL/ClickHouse, WebSocket and event-driven architecture.
 ## My projects:
 - Diploma. Client-server application for financial analysis and securities portfolio management. [[Repository](https://github.com/orgs/Maxim-Ignatyev-s-Market-Vision/repositories)]
 - Laundry web application. Frontend + Backend (Java Spring Boot). [[Repository](https://github.com/Maks3410/laundry-coursework)]
